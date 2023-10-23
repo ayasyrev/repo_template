@@ -1,6 +1,16 @@
 # my
 .vscode/
 tmp*/
+cov.xml
+
+# ide
+
+.idea/
+.vscode/settings.json
+
+# nox
+.nox
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
